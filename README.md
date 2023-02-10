@@ -1,1 +1,1 @@
-# cart_hithub_profile
+# TypeScript курс. Проект GitHub user finder
